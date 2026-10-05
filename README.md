@@ -7,6 +7,7 @@ Backend Engineer specializing in Python, REST APIs, Databases, AWS, and GCP.
 - 🐍 Python
 - 🔗 REST API Development
 - 🗄️ PostgreSQL | MySQL | DynamoDB
+- 🤖 Selenium Test Automation
 - ☁️ AWS (Lambda, EC2, S3, DynamoDB)
 - ☁️ GCP (Cloud Functions, Cloud Run, Compute Engine)
 - 🐧 Linux
