@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Samidha Yerawar
 
-<!--
-**samidha1234/samidha1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer specializing in Python, REST APIs, Databases, AWS, and GCP.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+- 🔗 REST API Development
+- 🗄️ PostgreSQL | MySQL | DynamoDB
+- ☁️ AWS (Lambda, EC2, S3, DynamoDB)
+- ☁️ GCP (Cloud Functions, Cloud Run, Compute Engine)
+- 🐧 Linux
+- 🔄 CI/CD
+- 🧪 Automation & Testing
+
+## What I Do
+
+✅ Build scalable backend services  
+✅ Design and develop RESTful APIs  
+✅ Cloud-native application development  
+✅ Database optimization and integration  
+✅ Automation and DevOps support
+
+## Current Focus
+
+- Cloud Architecture
+- Microservices
+- Kubernetes
+- AI-powered Solutions
+
+📫 Feel free to connect and collaborate.
+`
